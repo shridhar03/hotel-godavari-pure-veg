@@ -81,6 +81,8 @@ Everything you need to swap is marked **PLACEHOLDER**:
 
 The build is static and uses a relative base (`./`), so it works from a domain root or any sub-path.
 
+**GitHub Pages:** `.github/workflows/deploy-pages.yml` builds and deploys on every push to `main` (or run it manually from the Actions tab). One-time setup: repo **Settings → Pages → Source: GitHub Actions**. The site is then served at `https://shridhar03.github.io/hotel-godavari-pure-veg/`.
+
 **Vercel:** import the repo; framework preset **Vite**, build command `npm run build`, output directory `dist`. Or run `npx vercel --prod`.
 
 **Netlify:** build command `npm run build`, publish directory `dist`. Or run `npx netlify deploy --prod --dir=dist`. Netlify Forms can be enabled by adding `data-netlify="true"` to the forms.
