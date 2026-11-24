@@ -1,0 +1,44 @@
+[
+  {
+    "id": "deluxe",
+    "name": { "en": "Deluxe Room", "mr": "डिलक्स रूम", "hi": "डीलक्स रूम" },
+    "price": 2999,
+    "size": "260 sq ft",
+    "guests": 2,
+    "bed": "Queen bed",
+    "description": "A calm, sunlit room in river tones with a plush queen bed, work desk and brass accents.",
+    "amenities": ["wifi", "ac", "tv", "tea", "shower"],
+    "palette": { "wall": "#F3E6CF", "floor": "#8B5E3C", "bed": "#0E5E6F", "accent": "#F4A300" },
+    "layout": "deluxe",
+    "image": "images/rooms/deluxe.webp",
+    "model": ""
+  },
+  {
+    "id": "executive",
+    "name": { "en": "Executive Room", "mr": "एक्झिक्युटिव्ह रूम", "hi": "एग्ज़ीक्यूटिव रूम" },
+    "price": 4499,
+    "size": "340 sq ft",
+    "guests": 2,
+    "bed": "King bed",
+    "description": "More room to breathe: a king bed, lounge chair, river-view window and a dedicated work corner.",
+    "amenities": ["wifi", "ac", "tv", "tea", "shower", "desk", "view"],
+    "palette": { "wall": "#EDE3D1", "floor": "#5B3A24", "bed": "#3A7D44", "accent": "#F4A300" },
+    "layout": "executive",
+    "image": "images/rooms/executive.webp",
+    "model": ""
+  },
+  {
+    "id": "family",
+    "name": { "en": "Family Suite", "mr": "फॅमिली सूट", "hi": "फ़ैमिली सुइट" },
+    "price": 6999,
+    "size": "520 sq ft",
+    "guests": 4,
+    "bed": "King + 2 singles",
+    "description": "Two connected spaces with a king bed, twin beds for children, a sitting area and a bathtub.",
+    "amenities": ["wifi", "ac", "tv", "tea", "bath", "desk", "view", "sofa"],
+    "palette": { "wall": "#F6EAD6", "floor": "#7A4B2A", "bed": "#B5523B", "accent": "#0E5E6F" },
+    "layout": "family",
+    "image": "images/rooms/family.webp",
+    "model": ""
+  }
+]

@@ -1,0 +1,132 @@
+{
+ "_comment": "Signature dishes for the 3D carousel. 'plate' selects the procedural placeholder 3D model; set 'model' to a .glb path (DRACO-compressed is fine) to use a real model instead.",
+ "dishes": [
+  {
+   "id": "thali",
+   "name": "Godavari Maharaja Thali",
+   "local": "महाराजा थाळी",
+   "price": 399,
+   "plate": "thali",
+   "colors": [
+    "#F4A300",
+    "#C0392B",
+    "#3A7D44",
+    "#F7E1A0",
+    "#8B4513",
+    "#FFF3D6"
+   ],
+   "description": "Our signature unlimited thali with seasonal sabzis, varan-bhaat, kadhi, chapati, jowar bhakri, koshimbir, papad and a sweet of the day.",
+   "tags": [
+    "Pure Veg",
+    "Jain on request",
+    "Unlimited"
+   ],
+   "image": "images/dishes/thali.webp",
+   "model": ""
+  },
+  {
+   "id": "misal",
+   "name": "Nashik Misal Pav",
+   "local": "मिसळ पाव",
+   "price": 129,
+   "plate": "bowl",
+   "colors": [
+    "#C4441C",
+    "#F4A300",
+    "#E9C46A",
+    "#3A7D44"
+   ],
+   "description": "Fiery sprouted moth-bean usal crowned with crunchy farsan, onion and coriander, with soft pav and a wedge of lemon.",
+   "tags": [
+    "Pure Veg",
+    "Spicy",
+    "Bestseller"
+   ],
+   "image": "images/dishes/misal.webp",
+   "model": ""
+  },
+  {
+   "id": "puranpoli",
+   "name": "Puran Poli with Ghee",
+   "local": "पुरणपोळी",
+   "price": 149,
+   "plate": "flat",
+   "colors": [
+    "#E9B44C",
+    "#F7D98B",
+    "#FFF3D6"
+   ],
+   "description": "Hand-rolled flatbread stuffed with chana dal, jaggery, nutmeg and cardamom, served warm with pure ghee and katachi amti.",
+   "tags": [
+    "Pure Veg",
+    "Jain-friendly",
+    "No onion-garlic"
+   ],
+   "image": "images/dishes/puranpoli.webp",
+   "model": ""
+  },
+  {
+   "id": "paneer",
+   "name": "Paneer Tikka Platter",
+   "local": "पनीर टिक्का",
+   "price": 259,
+   "plate": "skewer",
+   "colors": [
+    "#F2E8D5",
+    "#E07A2F",
+    "#3A7D44",
+    "#C0392B"
+   ],
+   "description": "Tandoor-charred paneer, peppers and onion in a smoky hung-curd marinade with mint chutney.",
+   "tags": [
+    "Pure Veg",
+    "Tandoor",
+    "Bestseller"
+   ],
+   "image": "images/dishes/paneer.webp",
+   "model": ""
+  },
+  {
+   "id": "dosa",
+   "name": "Mysore Masala Dosa",
+   "local": "मसाला डोसा",
+   "price": 139,
+   "plate": "dosa",
+   "colors": [
+    "#D99A3E",
+    "#F2C46D",
+    "#FFF8EC",
+    "#C4441C"
+   ],
+   "description": "Paper-thin golden dosa layered with red chutney and potato bhaji, with sambar and coconut chutney.",
+   "tags": [
+    "Pure Veg",
+    "South Indian",
+    "Jain on request"
+   ],
+   "image": "images/dishes/dosa.webp",
+   "model": ""
+  },
+  {
+   "id": "sweets",
+   "name": "Mithai Platter",
+   "local": "मिठाई",
+   "price": 199,
+   "plate": "sweets",
+   "colors": [
+    "#FFF3D6",
+    "#8B3A1A",
+    "#F4A300",
+    "#F7E1A0"
+   ],
+   "description": "Ukadiche modak, gulab jamun, shrikhand and jalebi: a festive taste of every season.",
+   "tags": [
+    "Pure Veg",
+    "Jain-friendly",
+    "No onion-garlic"
+   ],
+   "image": "images/dishes/sweets.webp",
+   "model": ""
+  }
+ ]
+}
