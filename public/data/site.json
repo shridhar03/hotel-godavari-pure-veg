@@ -1,0 +1,25 @@
+{
+  "_comment": "Business details. Replace every [PLACEHOLDER] with real values.",
+  "name": "Hotel Godavari Pure Veg",
+  "address": "[ADDRESS]",
+  "phone": "[PHONE]",
+  "email": "[EMAIL]",
+  "whatsapp": "910000000000",
+  "_whatsappNote": "WhatsApp number in international format without + or spaces, e.g. 919876543210. Replace the placeholder.",
+  "mapEmbedUrl": "https://www.google.com/maps?q=Godavari+River+Nashik&output=embed",
+  "_mapNote": "PLACEHOLDER map. Replace with your Google Maps 'Embed a map' URL.",
+  "banquetVideo": "video/banquet-placeholder.mp4",
+  "banquetPoster": "images/banquet-poster.webp",
+  "hours": [
+    { "label": { "en": "Breakfast", "mr": "न्याहारी", "hi": "नाश्ता" }, "time": "7:00 AM – 11:00 AM" },
+    { "label": { "en": "Lunch", "mr": "दुपारचे जेवण", "hi": "दोपहर का भोजन" }, "time": "12:00 PM – 3:30 PM" },
+    { "label": { "en": "Dinner", "mr": "रात्रीचे जेवण", "hi": "रात का भोजन" }, "time": "7:00 PM – 11:00 PM" },
+    { "label": { "en": "Front Desk", "mr": "स्वागत कक्ष", "hi": "फ्रंट डेस्क" }, "time": "24 × 7" }
+  ],
+  "social": {
+    "instagram": "https://instagram.com/",
+    "facebook": "https://facebook.com/",
+    "youtube": "https://youtube.com/",
+    "google": "https://g.page/"
+  }
+}

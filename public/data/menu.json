@@ -1,0 +1,465 @@
+{
+ "_comment": "Full menu. Prices in INR. tags: jain = Jain-friendly, nog = no onion & garlic, spicy, bestseller. Edit freely; fetched at runtime.",
+ "categories": [
+  "Breakfast",
+  "Maharashtrian",
+  "Punjabi",
+  "South Indian",
+  "Chinese",
+  "Thali",
+  "Desserts",
+  "Beverages"
+ ],
+ "items": [
+  {
+   "id": "poha",
+   "name": "Poha",
+   "local": "पोहे",
+   "category": "Breakfast",
+   "price": 79,
+   "description": "Flattened rice tempered with mustard, curry leaves, peanuts and fresh coriander.",
+   "tags": [
+    "nog",
+    "jain"
+   ]
+  },
+  {
+   "id": "upma",
+   "name": "Upma",
+   "local": "उपमा",
+   "category": "Breakfast",
+   "price": 79,
+   "description": "Roasted semolina with vegetables, cashews and ghee.",
+   "tags": [
+    "nog"
+   ]
+  },
+  {
+   "id": "sabudana-khichdi",
+   "name": "Sabudana Khichdi",
+   "local": "साबुदाणा खिचडी",
+   "category": "Breakfast",
+   "price": 99,
+   "description": "Sago pearls with peanuts, cumin and green chilli. A fasting favourite.",
+   "tags": [
+    "jain",
+    "nog"
+   ]
+  },
+  {
+   "id": "thalipeeth",
+   "name": "Thalipeeth",
+   "local": "थालीपीठ",
+   "category": "Breakfast",
+   "price": 109,
+   "description": "Multigrain bhajani flatbread with white butter and curd.",
+   "tags": [
+    "nog"
+   ]
+  },
+  {
+   "id": "aloo-paratha",
+   "name": "Aloo Paratha",
+   "local": "आलू पराठा",
+   "category": "Breakfast",
+   "price": 119,
+   "description": "Stuffed whole-wheat flatbread, served with curd and pickle.",
+   "tags": []
+  },
+  {
+   "id": "misal-pav",
+   "name": "Misal Pav",
+   "local": "मिसळ पाव",
+   "category": "Maharashtrian",
+   "price": 129,
+   "description": "Spicy sprouted moth-bean curry with farsan, onion, lemon and soft pav.",
+   "tags": [
+    "spicy",
+    "bestseller"
+   ]
+  },
+  {
+   "id": "puran-poli",
+   "name": "Puran Poli",
+   "local": "पुरणपोळी",
+   "category": "Maharashtrian",
+   "price": 149,
+   "description": "Sweet chana-dal and jaggery flatbread with a generous spoon of ghee.",
+   "tags": [
+    "jain",
+    "nog",
+    "bestseller"
+   ]
+  },
+  {
+   "id": "pithla-bhakri",
+   "name": "Pithla Bhakri",
+   "local": "पिठलं भाकरी",
+   "category": "Maharashtrian",
+   "price": 139,
+   "description": "Comforting besan pithla with jowar bhakri, thecha and onion.",
+   "tags": [
+    "spicy"
+   ]
+  },
+  {
+   "id": "vada-pav",
+   "name": "Vada Pav",
+   "local": "वडा पाव",
+   "category": "Maharashtrian",
+   "price": 49,
+   "description": "Mumbai's iconic potato fritter in pav with dry garlic chutney.",
+   "tags": [
+    "spicy"
+   ]
+  },
+  {
+   "id": "bharli-vangi",
+   "name": "Bharli Vangi",
+   "local": "भरली वांगी",
+   "category": "Maharashtrian",
+   "price": 189,
+   "description": "Baby brinjals stuffed with peanut-coconut-goda masala.",
+   "tags": []
+  },
+  {
+   "id": "kothimbir-vadi",
+   "name": "Kothimbir Vadi",
+   "local": "कोथिंबीर वडी",
+   "category": "Maharashtrian",
+   "price": 119,
+   "description": "Crisp coriander and gram-flour squares.",
+   "tags": [
+    "nog"
+   ]
+  },
+  {
+   "id": "paneer-tikka",
+   "name": "Paneer Tikka",
+   "local": "पनीर टिक्का",
+   "category": "Punjabi",
+   "price": 259,
+   "description": "Tandoor-charred cottage cheese marinated in hung curd and spices.",
+   "tags": [
+    "bestseller"
+   ]
+  },
+  {
+   "id": "paneer-butter-masala",
+   "name": "Paneer Butter Masala",
+   "local": "पनीर बटर मसाला",
+   "category": "Punjabi",
+   "price": 269,
+   "description": "Paneer in a velvety tomato, cashew and butter gravy.",
+   "tags": [
+    "nog"
+   ]
+  },
+  {
+   "id": "dal-makhani",
+   "name": "Dal Makhani",
+   "local": "दाल मखनी",
+   "category": "Punjabi",
+   "price": 219,
+   "description": "Black lentils slow-cooked overnight with cream and butter.",
+   "tags": []
+  },
+  {
+   "id": "chole-bhature",
+   "name": "Chole Bhature",
+   "local": "छोले भटूरे",
+   "category": "Punjabi",
+   "price": 179,
+   "description": "Spiced chickpeas with fluffy fried bhature.",
+   "tags": [
+    "spicy"
+   ]
+  },
+  {
+   "id": "palak-paneer",
+   "name": "Palak Paneer",
+   "local": "पालक पनीर",
+   "category": "Punjabi",
+   "price": 249,
+   "description": "Fresh spinach purée with soft paneer cubes.",
+   "tags": [
+    "nog",
+    "jain"
+   ]
+  },
+  {
+   "id": "butter-naan",
+   "name": "Butter Naan",
+   "local": "बटर नान",
+   "category": "Punjabi",
+   "price": 59,
+   "description": "Tandoor-baked leavened bread brushed with butter.",
+   "tags": [
+    "jain",
+    "nog"
+   ]
+  },
+  {
+   "id": "masala-dosa",
+   "name": "Masala Dosa",
+   "local": "मसाला डोसा",
+   "category": "South Indian",
+   "price": 139,
+   "description": "Crisp fermented crêpe with potato bhaji, sambar and chutneys.",
+   "tags": [
+    "bestseller"
+   ]
+  },
+  {
+   "id": "idli-sambar",
+   "name": "Idli Sambar",
+   "local": "इडली सांबार",
+   "category": "South Indian",
+   "price": 89,
+   "description": "Steamed rice cakes with sambar and coconut chutney.",
+   "tags": [
+    "nog"
+   ]
+  },
+  {
+   "id": "medu-vada",
+   "name": "Medu Vada",
+   "local": "मेदू वडा",
+   "category": "South Indian",
+   "price": 99,
+   "description": "Crisp urad-dal doughnuts with sambar.",
+   "tags": [
+    "nog"
+   ]
+  },
+  {
+   "id": "rava-uttapam",
+   "name": "Rava Uttapam",
+   "local": "रवा उत्तपम",
+   "category": "South Indian",
+   "price": 129,
+   "description": "Thick semolina pancake topped with tomato and capsicum.",
+   "tags": [
+    "jain"
+   ]
+  },
+  {
+   "id": "filter-coffee",
+   "name": "Filter Coffee",
+   "local": "फिल्टर कॉफी",
+   "category": "South Indian",
+   "price": 59,
+   "description": "Strong South Indian decoction coffee with frothy milk.",
+   "tags": [
+    "jain",
+    "nog"
+   ]
+  },
+  {
+   "id": "veg-hakka-noodles",
+   "name": "Veg Hakka Noodles",
+   "local": "व्हेज हक्का नूडल्स",
+   "category": "Chinese",
+   "price": 179,
+   "description": "Wok-tossed noodles with crunchy vegetables.",
+   "tags": []
+  },
+  {
+   "id": "veg-manchurian",
+   "name": "Veg Manchurian",
+   "local": "व्हेज मंचुरियन",
+   "category": "Chinese",
+   "price": 189,
+   "description": "Vegetable dumplings in a tangy soy-ginger sauce.",
+   "tags": [
+    "spicy"
+   ]
+  },
+  {
+   "id": "paneer-chilli",
+   "name": "Paneer Chilli",
+   "local": "पनीर चिली",
+   "category": "Chinese",
+   "price": 229,
+   "description": "Crisp paneer tossed with peppers and chilli.",
+   "tags": [
+    "spicy"
+   ]
+  },
+  {
+   "id": "jain-fried-rice",
+   "name": "Jain Fried Rice",
+   "local": "जैन फ्राइड राइस",
+   "category": "Chinese",
+   "price": 169,
+   "description": "Fragrant fried rice made without onion, garlic or root vegetables.",
+   "tags": [
+    "jain",
+    "nog"
+   ]
+  },
+  {
+   "id": "godavari-maharaja-thali",
+   "name": "Godavari Maharaja Thali",
+   "local": "गोदावरी महाराजा थाळी",
+   "category": "Thali",
+   "price": 399,
+   "description": "Unlimited Maharashtrian thali: 3 sabzis, dal, kadhi, rice, chapati, bhakri, sweet and more.",
+   "tags": [
+    "bestseller"
+   ]
+  },
+  {
+   "id": "jain-thali",
+   "name": "Jain Thali",
+   "local": "जैन थाळी",
+   "category": "Thali",
+   "price": 379,
+   "description": "A complete thali prepared without onion, garlic or root vegetables.",
+   "tags": [
+    "jain",
+    "nog"
+   ]
+  },
+  {
+   "id": "punjabi-thali",
+   "name": "Punjabi Thali",
+   "local": "पंजाबी थाळी",
+   "category": "Thali",
+   "price": 349,
+   "description": "Paneer sabzi, dal makhani, jeera rice, naan, raita and gulab jamun.",
+   "tags": []
+  },
+  {
+   "id": "mini-thali",
+   "name": "Mini Thali",
+   "local": "मिनी थाळी",
+   "category": "Thali",
+   "price": 229,
+   "description": "A lighter thali for quick lunches.",
+   "tags": [
+    "nog"
+   ]
+  },
+  {
+   "id": "ukadiche-modak",
+   "name": "Ukadiche Modak",
+   "local": "उकडीचे मोदक",
+   "category": "Desserts",
+   "price": 149,
+   "description": "Steamed rice dumplings filled with coconut and jaggery (2 pcs).",
+   "tags": [
+    "jain",
+    "nog",
+    "bestseller"
+   ]
+  },
+  {
+   "id": "gulab-jamun",
+   "name": "Gulab Jamun",
+   "local": "गुलाब जामुन",
+   "category": "Desserts",
+   "price": 89,
+   "description": "Warm milk dumplings in cardamom syrup.",
+   "tags": [
+    "jain",
+    "nog"
+   ]
+  },
+  {
+   "id": "shrikhand",
+   "name": "Shrikhand",
+   "local": "श्रीखंड",
+   "category": "Desserts",
+   "price": 99,
+   "description": "Saffron-cardamom hung curd with pistachios.",
+   "tags": [
+    "jain",
+    "nog"
+   ]
+  },
+  {
+   "id": "basundi",
+   "name": "Basundi",
+   "local": "बासुंदी",
+   "category": "Desserts",
+   "price": 119,
+   "description": "Slow-reduced sweetened milk with nuts.",
+   "tags": [
+    "jain",
+    "nog"
+   ]
+  },
+  {
+   "id": "jalebi-rabdi",
+   "name": "Jalebi Rabdi",
+   "local": "जलेबी रबडी",
+   "category": "Desserts",
+   "price": 129,
+   "description": "Crisp jalebi with chilled rabdi.",
+   "tags": [
+    "jain",
+    "nog"
+   ]
+  },
+  {
+   "id": "masala-chai",
+   "name": "Masala Chai",
+   "local": "मसाला चहा",
+   "category": "Beverages",
+   "price": 39,
+   "description": "Ginger-cardamom tea brewed the Indian way.",
+   "tags": [
+    "nog"
+   ]
+  },
+  {
+   "id": "sol-kadhi",
+   "name": "Sol Kadhi",
+   "local": "सोलकढी",
+   "category": "Beverages",
+   "price": 69,
+   "description": "Kokum and coconut-milk digestive.",
+   "tags": [
+    "jain",
+    "nog"
+   ]
+  },
+  {
+   "id": "aamras",
+   "name": "Aamras",
+   "local": "आमरस",
+   "category": "Beverages",
+   "price": 119,
+   "description": "Fresh Alphonso mango pulp (seasonal).",
+   "tags": [
+    "jain",
+    "nog"
+   ]
+  },
+  {
+   "id": "sweet-lassi",
+   "name": "Sweet Lassi",
+   "local": "गोड लस्सी",
+   "category": "Beverages",
+   "price": 79,
+   "description": "Thick churned curd with a hint of rose.",
+   "tags": [
+    "jain",
+    "nog"
+   ]
+  },
+  {
+   "id": "fresh-lime-soda",
+   "name": "Fresh Lime Soda",
+   "local": "लिंबू सोडा",
+   "category": "Beverages",
+   "price": 59,
+   "description": "Sweet, salted or mixed.",
+   "tags": [
+    "jain",
+    "nog"
+   ]
+  }
+ ]
+}

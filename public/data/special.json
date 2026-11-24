@@ -1,0 +1,8 @@
+{
+  "_comment": "Edit this file to change the 'Today's Special' banner. No rebuild needed — it is fetched at runtime. Set enabled=false to hide it.",
+  "enabled": true,
+  "title": { "en": "Today's Special", "mr": "आजचे विशेष", "hi": "आज का विशेष" },
+  "dish": { "en": "Godavari Maharaja Thali with Aamras", "mr": "गोदावरी महाराजा थाळी आमरसासह", "hi": "गोदावरी महाराजा थाली आमरस के साथ" },
+  "price": 449,
+  "note": { "en": "Available for lunch & dinner · Jain version on request", "mr": "दुपारी व रात्री उपलब्ध · जैन पर्याय उपलब्ध", "hi": "लंच व डिनर में उपलब्ध · जैन विकल्प उपलब्ध" }
+}

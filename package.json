@@ -1,0 +1,26 @@
+{
+  "name": "hotel-godavari-pure-veg",
+  "private": true,
+  "version": "1.0.0",
+  "type": "module",
+  "description": "Hotel Godavari Pure Veg: immersive three.js website for a premium pure-vegetarian hotel & restaurant.",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "engines": {
+    "node": ">=18"
+  },
+  "dependencies": {
+    "gsap": "^3.15.1",
+    "lenis": "^1.3.28",
+    "three": "^0.187.0"
+  },
+  "devDependencies": {
+    "autoprefixer": "^10.7.0",
+    "postcss": "^8.5.33",
+    "tailwindcss": "^3.4.19",
+    "vite": "^5.4.21"
+  }
+}
